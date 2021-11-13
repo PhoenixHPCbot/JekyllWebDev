@@ -23,8 +23,6 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           TechBlogTest
 description:	       Jekyll Framework Test Node
 author:              robqiao
-github:
-  url:  "https://phoenixhpcbot.github.io/JekyllWebDev"
 
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
