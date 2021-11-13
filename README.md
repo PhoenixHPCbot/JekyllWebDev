@@ -1,2 +1,2 @@
 # JekyllWebDev
-Jekyll Static Web Infrustructure upgrade DevOps
+Jekyll Static Web Infrastructure upgrade DevOps
